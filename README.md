@@ -1,22 +1,20 @@
-<h1 align="center">Hi 👋, I'm Pranay Prasad </h1>
-<h3 align="center">An Enthusiastic, Ever Learning Developer.</h3>
+<a href="https://instagram.com/mr._py" target="_blank" rel="nofollow"><img align="right" alt="Pranay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://www.linkedin.com/in/pranay-prasad-5aa606184/" target="_blank" rel="nofollow"><img align="right" alt="Pranay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.facebook.com/Pranay002/" target="_blank" rel="nofollow"><img  align="right" alt="Pranay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"/></a>
 
-- 😎 Friends call me **Py**.
+<h1 align="left">Hi 👋, I'm Pranay Prasad </h1>
+<h3 align="left">An Enthusiastic, Ever Learning Developer.</h3>
+
+
+- 😎 Friends call me **Py**
+
 - 🔭 I’m currently working on [Building a Whatsapp Clone using Typescript](https://github.com/Mr-PY/Whatsapp-Clone)
 
 - 🌱 I’m currently learning **TypeScript, Node, Express**
 
 - 💬 Ask me about **React, Git, Css**
 
-- 📫 How to reach me **pranayprasad84@gmail.com**
+- 📫 Reach me at **pranayprasad84@gmail.com**
 
 - ⚡ Fun fact **I am the one you are looking for!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/Pranay002/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pranay py" height="30" width="40" /></a>
-<a href="https://instagram.com/mr._py" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr._py" height="30" width="40" /></a>
-</p>
 
 ### Languages and Tools:
 
