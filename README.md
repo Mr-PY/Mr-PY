@@ -6,11 +6,11 @@
 
 - 😎 Friends call me **Py**
 
-- 🔭 I’m currently working on [Building a Whatsapp Clone using Typescript](https://github.com/Mr-PY/Whatsapp-Clone)
+- 🔭 I’m currently working on deepdive into data structures & algorithms
 
-- 🌱 I’m currently learning **TypeScript, Node, Express**
+- 🌱 I’m currently learning **Angular, Java Spring**
 
-- 💬 Ask me about **React, Git, Css**
+- 💬 Ask me about **React, Flutter, Git, HTML5, CSS3**
 
 - 📫 Reach me at **pranayprasad84@gmail.com**
 
