@@ -1,5 +1,9 @@
 # 💫 About Me:
-AI based not taking app using open-source llms<br>CLI Starter Kit Generators<br>Nothing<br>System Design<br>Flutter, Angular, React, Node, NestJS, AWS, Git<br>I am the one you are looking for!
+🔭 I’m currently working on AI based note taking app using open-source llms<br>
+I'm looking to collaborate on [CLI Starter Kit Generator](https://github.com/Mr-PY/flutter_joystick)<br>
+🌱 I’m currently learning System Design<br>
+❓ Ask me about Flutter, Angular, React, Node, NestJS, AWS, Git<br>
+⚡ Fun fact: I am the one you are looking for!
 
 
 ## 🌐 Socials:
